@@ -28,5 +28,8 @@
     <ClInclude Include="insertion_sort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="selection_sort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
