@@ -31,5 +31,8 @@
     <ClInclude Include="selection_sort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="bubble_sort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
