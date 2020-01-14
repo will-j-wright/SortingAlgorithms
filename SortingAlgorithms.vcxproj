@@ -107,6 +107,7 @@
     <ClInclude Include="bogo_sort.h" />
     <ClInclude Include="bubble_sort.h" />
     <ClInclude Include="insertion_sort.h" />
+    <ClInclude Include="merge_sort.h" />
     <ClInclude Include="selection_sort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
