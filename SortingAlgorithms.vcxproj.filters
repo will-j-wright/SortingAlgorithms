@@ -40,5 +40,8 @@
     <ClInclude Include="merge_sort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="gnome_sort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
