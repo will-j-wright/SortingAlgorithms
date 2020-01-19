@@ -46,5 +46,8 @@
     <ClInclude Include="bucket_sort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="quicksort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
